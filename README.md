@@ -9,7 +9,7 @@ One of the recordings for violin was made in the Universitat Pompeu Fabra record
 
 One other recording set was taken from Good-sounds project. The only brass instrument within the whole dataset is this one for alto saxophone. It was again recorded in the Universitat Pompeu Fabra / Phonos recording studio. This dataset for alto saxophone not only contains vibrato and non vibrato sounds but also some different tonal characteristics. 
 
-Three other recordings are downloaded from a user named (http://www.freesound.org/people/Carlos_Vaquero/)[Carlos_Vaquero]. Violin, violoncello and transverse flute recordings were downloaded and used for non commercial purposes under creative commons license. Within the Carlos_Vaquero folder, audio files are separated according to the type of instruments.
+Three other recordings are downloaded from a user named [Carlos_Vaquero](http://www.freesound.org/people/Carlos_Vaquero/). Violin, violoncello and transverse flute recordings were downloaded and used for non commercial purposes under creative commons license. Within the Carlos_Vaquero folder, audio files are separated according to the type of instruments.
 
 ## Dataset Description
 The database is meant for organizing the sounds in a handy way. It is organized according to the creator. Each has 11 field descriptor. 
