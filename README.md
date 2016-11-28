@@ -25,10 +25,10 @@ The database is meant for organizing the sounds in a handy way. It is organized 
 
 Except than alto-sax recordings, each contains following parameters:
 
-**Peak_Percentage:** Percent wise proportion of peaks in first derivation of the pitch trajectory.
-**Mean_Difference:** Mean value of the differences of two consecutive peaks.
-**Max_Difference:** Maximum separation of side by side peaks. 
-**Index_Max (first one):** Index value of the maximum peak in the derivative array
-**Location_Max (%):** Location of the maximum peak in the array, percent wise.
-**Start_End_Time (seconds):** Starting and ending time instants of vibrato in the recording.
-**Duration:** Duration of the vibrato part of the recording.
+**Peak_Percentage:** Percent wise proportion of peaks in first derivation of the pitch trajectory.  
+**Mean_Difference:** Mean value of the differences of two consecutive peaks.  
+**Max_Difference:** Maximum separation of side by side peaks.  
+**Index_Max (first one):** Index value of the maximum peak in the derivative array.  
+**Location_Max (%):** Location of the maximum peak in the array, percent wise.  
+**Start_End_Time (seconds):** Starting and ending time instants of vibrato in the recording.  
+**Duration:** Duration of the vibrato part of the recording.  
