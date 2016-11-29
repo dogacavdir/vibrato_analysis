@@ -33,5 +33,9 @@ Except than alto-sax recordings, each contains following parameters:
 **Start_End_Time (seconds):** Starting and ending time instants of vibrato in the recording.  
 **Duration:** Duration of the vibrato part of the recording.  
 
+## Documentation
+
+Related report can be found in the repository with the name of "Vibrato Analysis Internship Report".
+
 ## License
-All the software is distributed with the [Affero GPL v3 license] (http://www.gnu.org/licenses/agpl-3.0.en.html)
+All the software is distributed with the Creative Commons Attribution 4.0. 
