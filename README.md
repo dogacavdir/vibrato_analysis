@@ -1,5 +1,5 @@
 # vibrato_analysis
-Vibrato Dataset,Detection and Parameterization
+Vibrato Analysis Dataset,Detection and Parameterization
 ## Introduction
 This dataset was created as an outcome of a summer internship with Good-sounds project. Sound recordings were used for vibrato analysis. The dataset contains monophonic recordings of single notes and melodies for four instruments with annotations of four different recording sets regarding some vibrato parameters. 
 
