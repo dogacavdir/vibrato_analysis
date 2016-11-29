@@ -32,3 +32,6 @@ Except than alto-sax recordings, each contains following parameters:
 **Location_Max (%):** Location of the maximum peak in the array, percent wise.  
 **Start_End_Time (seconds):** Starting and ending time instants of vibrato in the recording.  
 **Duration:** Duration of the vibrato part of the recording.  
+
+## License
+All the software is distributed with the [Affero GPL v3 license] (http://www.gnu.org/licenses/agpl-3.0.en.html)
